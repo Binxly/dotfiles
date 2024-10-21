@@ -1,5 +1,22 @@
 [
 	{
+		"name": "SharkBlue",
+		"description": "SharkBlue",
+		"preview": "SharkBlue/screenshot.png",
+		"readme": "SharkBlue/README.md",
+		"usercss": "SharkBlue/user.css",
+		"schemes": "SharkBlue/color.ini",
+		"authors": [
+			{
+				"name": "Mr Biscuit",
+				"url": "https://github.com/MrBiscuit921"
+			}
+		],
+		"tags": [
+			"latest"
+		]
+	},
+	{
 		"name": "BurntSienna",
 		"description": "BurntSienna",
 		"preview": "BurntSienna/screenshot.png",
@@ -78,7 +95,7 @@
 	{
 		"name": "Matte",
 		"description": "Has a neat color pallete and a much cleaner interface",
-		"preview": "Matte/screenshots/queue.png",
+		"preview": "Matte/screenshots/ylx-matte.png",
 		"readme": "Matte/README.md",
 		"usercss": "Matte/user.css",
 		"schemes": "Matte/color.ini",
@@ -89,8 +106,7 @@
 			}
 		],
 		"tags": [
-			"outdated",
-			"v1.2.22"
+			"latest"
 		]
 	},
 	{
