@@ -1,0 +1,16 @@
+# Config for sway
+#
+
+include "$HOME/.cache/wal/colors-sway"
+
+
+# Read `man 5 sway` for a complete reference.
+
+# user config directory
+include $HOME/.config/sway/config.d/*
+
+#include "$HOME/.cache/wal/colors-sway"
+
+output DP-2 background $wallpaper fill
+client.focused $color0 $background $foreground $color7 $background
+
